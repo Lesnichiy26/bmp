@@ -1,0 +1,8 @@
+C:/Users/Nikita/Desktop/bmp/labwork3-Lesnichiy26-deadline_0/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Nikita/Desktop/bmp/labwork3-Lesnichiy26-deadline_0/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+C:/Users/Nikita/Desktop/bmp/labwork3-Lesnichiy26-deadline_0/cmake-build-debug/lib/CMakeFiles/bmp.dir
+C:/Users/Nikita/Desktop/bmp/labwork3-Lesnichiy26-deadline_0/cmake-build-debug/lib/CMakeFiles/edit_cache.dir
+C:/Users/Nikita/Desktop/bmp/labwork3-Lesnichiy26-deadline_0/cmake-build-debug/lib/CMakeFiles/rebuild_cache.dir
+C:/Users/Nikita/Desktop/bmp/labwork3-Lesnichiy26-deadline_0/cmake-build-debug/bin/CMakeFiles/bmp_sandpile.dir
+C:/Users/Nikita/Desktop/bmp/labwork3-Lesnichiy26-deadline_0/cmake-build-debug/bin/CMakeFiles/edit_cache.dir
+C:/Users/Nikita/Desktop/bmp/labwork3-Lesnichiy26-deadline_0/cmake-build-debug/bin/CMakeFiles/rebuild_cache.dir
